@@ -6,7 +6,7 @@ var newPass = ""
 function generatePassword (){
   var pwdLength = prompt("How long should your password be? Enter a length between 8 and 128.");
 
-
+//alerts if the the requested password length is out of the specified range.
   if (pwdLength < 8 || pwdLength > 128) {
   alert("That is an invalid length. Try again");
   return generatePassword();
@@ -18,6 +18,7 @@ function generatePassword (){
   num = confirm("Do you want to include numbers?")
   sym = confirm("Do you want to include special characters?")
 
+  //alerts if no criteria is selected for password. must use at least one
   if (low === false && upp === false && num === false && sym === false){
     alert('You must select at least one criteria for your password. Try again!');
     return generatePassword();

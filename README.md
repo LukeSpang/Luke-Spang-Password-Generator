@@ -15,5 +15,5 @@ Features include:
 Below is the programs current status. 
 The Password Generator can be found at _________
 
-<img src="Luke-Spang-Password-Generator/assets/screenshot1.png">
-<img src="Luke-Spang-Password-Generator/assets/screenshot2.png">
+<img src="assets/images/screenshot1.png">
+<img src="assets/images/screenshot2.png">

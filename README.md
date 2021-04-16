@@ -13,7 +13,7 @@ Features include:
 5. Once all the prompts are answered the program creates the password and displays it in the text box below for the user to copy and use for whatever they need.
 
 Below is the programs current status. 
-The Password Generator can be found at _________
+The Password Generator can be found at https://lukespang.github.io/Luke-Spang-Password-Generator/
 
 <img src="assets/images/screenshot1.png">
 <img src="assets/images/screenshot2.png">
